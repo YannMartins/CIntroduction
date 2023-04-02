@@ -1,7 +1,7 @@
 # <h1 align="center">Introdução a linguagem C</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102706324/229344846-86e77a0f-be6d-4ccd-b32b-999d84835544.png">
+  <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c_256x256.png">
 </p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
